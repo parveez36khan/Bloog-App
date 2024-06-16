@@ -20,7 +20,7 @@ function App() {
       const checkSession = async () => {
           const user = await authService.getCurrentUser();
           if (!user) {
-              navigate('/login');
+              navigate('/');
           } else {
               setIsLoggedIn(true);
           }
