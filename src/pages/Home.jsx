@@ -26,7 +26,7 @@ function Home() {
               <div className=" p-8">
                 <h1 className="text-3xl font-semibold mb-4 text-center text-gray-800">Welcome to Bloog App!</h1>
                 <p className="text-lg font-semibold text-gray-600  items-centertext-center">
-                  where you can use for both personally for uploading memories as post and share with loved ones whereas for professionally use upload documents like Id card etc.
+                Bloog App is your go-to platform for all your personal and professional needs. Share cherished memories and moments with loved ones through posts, or manage your professional documents, such as ID cards, with ease. Whether it's personal or professional, Bloog App has got you covered.
                 </p>
               </div>
               
