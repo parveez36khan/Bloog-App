@@ -4,7 +4,14 @@
 @tailwind utilities;
 
 
-
+/* Example media query */
+@media (max-width: 600px) {
+    .container {
+      padding: 10px;
+      font-size: 14px;
+    }
+  }
+  
 
 .browser-css head {
     display: none;
